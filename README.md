@@ -1,21 +1,32 @@
 Python Voice Assistant 🎙️
+
 A simple Python-based Voice Assistant that can:
 
-Listen to your voice
-Recognize speech
-Speak responses
-Open websites like YouTube, Google, Facebook, Instagram, WhatsApp, and more
-Tell the current time
-Features
-✅ Speech Recognition ✅ Text-to-Speech ✅ Open Websites with Voice Commands ✅ Tell Current Time ✅ Continuous Listening Mode ✅ Simple and Beginner-Friendly
+1) Listen to your voice
+2) Recognize speech
+3) Speak responses
+4) Open websites like YouTube, Google,         Facebook, Instagram, WhatsApp, and more
+5) Tell the current time
 
-Technologies Used
+Features:
+
+1:Speech Recognition
+2:Text-to-Speech
+3:Open Websites with Voice Commands
+4:Tell Current Time
+5:Continuous Listening Mode 
+6:Simple and Beginner-Friendly
+
+Technologies Used:
+
 Python
 SpeechRecognition
 Pyttsx3
 Webbrowser
 Datetime
-Installation
+
+Installation:
+
 Step : Install Required Libraries
 Open terminal or command prompt and run:
 
@@ -46,6 +57,8 @@ You:
 
 ```text
 open google
+
+
 Assistant:
 
 Opening Google
